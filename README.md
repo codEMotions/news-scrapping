@@ -11,3 +11,7 @@ will be run from my terminal:
 Then the app will be loaded through the locally provided port:
 
 ![screenshot of app](https://i.imgur.com/jVkB7IP.png)
+
+Using the "scrape new article" button click in the header, an article from the NYT will appear and show an article where you will have the option to add notes to the article or remove it entirely from your saved list. 
+
+The saved articles will be qued under Mongo's "headlines". 
